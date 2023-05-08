@@ -49,8 +49,8 @@
 
 <div>
   <h3>Estatísticas GitHub</h3>                                                                                                                         
-  <img height="210px" src="https://github-readme-stats.vercel.app/api?username=ciroesteves&show_icons=true&theme=radical" />
-  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciroesteves&show_icons=true&theme=radical" />
+  <img height="230px" src="https://github-readme-stats.vercel.app/api?username=ciroesteves&show_icons=true&theme=radical" />
+  <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciroesteves&show_icons=true&theme=radical" />
 </div>
 
 <h3>Obrigado por visitar meu perfil! 😀 </h3>

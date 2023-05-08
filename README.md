@@ -1,18 +1,35 @@
 <h1> Opa, me chamo Ciro Esteves... Seja bem vindo! 👋 </h1>
-<h3>Atualmente trabalho como Analista de Testes QA</h3>
+<h3>Atualmente trabalho como Analista de Testes/ QA</h3>
+<p>Dentre as minhas atribuições atuais estão: </p>
+
+* A elaboração e execução de testes manuais;
+* Criação e manuteção de testes automatizados;
+* Criação e manutenção de testes de API via Postman;
+* Criação de ferramentas de auxílio aos testes;
+* E análise de Pull Requests.
 
 <div>
-  <a href="https://www.linkedin.com/in/ciro-esteves-vieira-108770156/" ><img src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-  <a href="" ><img src"" ></a>
+  <h4>QA</h4>
+  <p>Postman, Cypress, Selenium e SonaQube.</p>
+  <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+  <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/330247/cypress.svg" />
+  <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/473780/selenium.svg" />
+  <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/354365/sonarqube.svg" /> 
 </div>
 
-<div align="center">
-  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=ciroesteves&show_icons=true&theme=radical" />
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciroesteves&show_icons=true&theme=radical" />
-</div>
-<div align="center">
+---
+
+<h3>Minha principal área de interesse profissional é Desenvolvimento Backend</h3>
+<p>Possuo conhecimento e prática diária com: </p>
+
+* PHP && JavaScript && TypeScript;
+* MySQL && Firebase;
+* Sistemas Linux.
+
+<div>
+  <h4>Dev</h4>
+  <p>PHP, JavaScript, TypeScript, C, MySQL, Firebase, Ubuntu e AngularJS.</p>
   <span>
-    <h3>Dev</h3>
     <img align="center" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     <img align="center" width="70px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img align="center" width="70px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -29,12 +46,11 @@
     <img align="center" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   </span>
 </div>
-<div align="center">
-  <h3>QA</h3>
-  <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
-  <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/330247/cypress.svg" />
-  <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/473780/selenium.svg" />
-  <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/354365/sonarqube.svg" /> 
+
+<div>
+  <h3>Estatísticas GitHub</h3>                                                                                                                         
+  <img height="210px" src="https://github-readme-stats.vercel.app/api?username=ciroesteves&show_icons=true&theme=radical" />
+  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciroesteves&show_icons=true&theme=radical" />
 </div>
 
 <h3>Obrigado por visitar meu perfil! 😀 </h3>

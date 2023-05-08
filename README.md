@@ -19,7 +19,7 @@
 
 ---
 
-<h3>Minha principal área de interesse profissional é Desenvolvimento Backend</h3>
+<h3>Área de interesse -> Desenvolvimento Backend</h3>
 <p>Possuo conhecimento e prática diária com: </p>
 
 * PHP && JavaScript && TypeScript;

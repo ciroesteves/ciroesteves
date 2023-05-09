@@ -14,7 +14,7 @@
   <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
   <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/330247/cypress.svg" />
   <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/473780/selenium.svg" />
-  <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/354365/sonarqube.svg" /> 
+  <img align="center" width="120x" src="https://www.svgrepo.com/show/354365/sonarqube.svg" /> 
 </div>
 
 ---

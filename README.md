@@ -3,14 +3,14 @@
 <p>Dentre as minhas atribuições atuais estão: </p>
 
 * A elaboração e execução de testes manuais;
-* Criação e manuteção de testes automatizados;
+* Criação e manuteção de testes automatizados com Cypress e Selenium+Python;
 * Criação e manutenção de testes de API via Postman;
 * Criação de ferramentas de auxílio aos testes;
-* E análise de Pull Requests.
+* Análise de Pull Requests.
 
 <div>
   <h4>QA</h4>
-  <p>Postman, Cypress, Selenium e SonaQube.</p>
+  <p>Postman, Cypress, Selenium e SonarQube.</p>
   <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
   <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/330247/cypress.svg" />
   <img align="center" width="70px" height="50px" src="https://www.svgrepo.com/show/473780/selenium.svg" />
